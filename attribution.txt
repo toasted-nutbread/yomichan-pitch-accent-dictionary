@@ -1,0 +1,3 @@
+The pitch accent notation, verb particle data, phonetics, homonyms and other additions or modifications to EDICT, KANJIDIC or KRADFILE were provided by Uros Ozvatic through his free database.
+
+https://github.com/mifunetoshiro/kanjium
